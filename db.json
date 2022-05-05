@@ -20,5 +20,25 @@
       "title": "site D",
       "value": "site d"
     }
+  ],
+   "devices": [
+    {
+      "location": "Location A",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
+    },
+    {
+      "location": "Location B",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
+    },
+    {
+      "location": "Location C",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
+    },
   ]
 }
