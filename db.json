@@ -1,1 +1,20 @@
-
+{
+  "sites": [
+    {
+      "id": 1,
+      "title": "site A"
+    },
+     {
+      "id": 2,
+      "title": "site B"
+    },
+     {
+      "id": 3,
+      "title": "site C"
+    },
+     {
+      "id": 4,
+      "title": "site D"
+    },
+  ]
+}
