@@ -2,19 +2,23 @@
   "sites": [
     {
       "id": 1,
-      "title": "site A"
+      "title": "site A",
+      "value": "site a"
     },
      {
       "id": 2,
-      "title": "site B"
+      "title": "site B",
+      "value": "site b"
     },
      {
       "id": 3,
-      "title": "site C"
+      "title": "site C",
+      "value": "site c"
     },
      {
       "id": 4,
-      "title": "site D"
+      "title": "site D",
+      "value": "site d"
     }
   ]
 }
