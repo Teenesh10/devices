@@ -21,7 +21,7 @@
       "value": "site d"
     }
   ],
-   "devices": [
+   "locations": [
     {
       "location": "Location A",
       "deviceA": "Device 1",
