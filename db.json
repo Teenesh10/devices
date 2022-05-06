@@ -23,19 +23,43 @@
   ],
    "locations": [
     {
+      "id": "Site A",
       "location": "Location A",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
     },
     {
+      "id": "Site A",
       "location": "Location B",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
     },
     {
+      "id": "Site A",
       "location": "Location C",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
+    },
+    {
+      "id": "Site B",
+      "location": "Location D",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
+    },
+    {
+      "id": "Site B",
+      "location": "Location E",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
+    },
+    {
+      "id": "Site B",
+      "location": "Location F",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
