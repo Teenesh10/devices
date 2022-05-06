@@ -34,11 +34,5 @@
       "deviceB": "Device 2",
       "action": "subscribe"
     },
-    {
-      "location": "Location C",
-      "deviceA": "Device 1",
-      "deviceB": "Device 2",
-      "action": "subscribe"
-    }
   ]
 }
