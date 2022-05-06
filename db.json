@@ -23,42 +23,42 @@
   ],
    "locations": [
     {
-      "id": "Site A",
+      "id": "site a",
       "location": "Location A",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
     },
     {
-      "id": "Site A",
+      "id": "site a",
       "location": "Location B",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
     },
     {
-      "id": "Site A",
+      "id": "site a",
       "location": "Location C",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
     },
     {
-      "id": "Site B",
+      "id": "site b",
       "location": "Location D",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
     },
     {
-      "id": "Site B",
+      "id": "site b",
       "location": "Location E",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
     },
     {
-      "id": "Site B",
+      "id": "site b",
       "location": "Location F",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
