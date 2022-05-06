@@ -63,6 +63,48 @@
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
+    },
+    {
+      "id": "siteC",
+      "location": "Location G",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
+    },
+    {
+      "id": "siteC",
+      "location": "Location H",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
+    },
+    {
+      "id": "siteC",
+      "location": "Location I",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
+    },
+    {
+      "id": "siteD",
+      "location": "Location J",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
+    },
+    {
+      "id": "siteD",
+      "location": "Location K",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
+    },
+    {
+      "id": "siteD",
+      "location": "Location L",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "action": "subscribe"
     }
   ]
 }
