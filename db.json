@@ -39,6 +39,6 @@
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
-    },
+    }
   ]
 }
