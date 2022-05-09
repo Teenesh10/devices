@@ -27,8 +27,7 @@
       "location": "Location A",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
-      "action": "subscribe",
-      "subscribe": " "
+      "action": "subscribe"
     },
     {
       "id": "siteA",
