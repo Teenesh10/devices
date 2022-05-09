@@ -27,21 +27,24 @@
       "location": "Location A",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
-      "action": "subscribe"
+      "action": "subscribe",
+      "subscribe": " "
     },
     {
       "id": "siteA",
       "location": "Location B",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
-      "action": "subscribe"
+      "action": "subscribe",
+      "subscribe": " "
     },
     {
       "id": "siteA",
       "location": "Location C",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
-      "action": "subscribe"
+      "action": "subscribe",
+      "subscribe": " "
     },
     {
       "id": "siteB",
