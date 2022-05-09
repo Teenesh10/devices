@@ -27,24 +27,21 @@
       "location": "Location A",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
-      "action": "subscribe",
-      "subscribe": " "
+      "action": "subscribe"
     },
     {
       "id": "siteA",
       "location": "Location B",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
-      "action": "subscribe",
-      "subscribe": " "
+      "action": "subscribe"
     },
     {
       "id": "siteA",
       "location": "Location C",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
-      "action": "subscribe",
-      "subscribe": " "
+      "action": "subscribe"
     },
     {
       "id": "siteB",
@@ -109,5 +106,6 @@
       "deviceB": "Device 2",
       "action": "subscribe"
     }
-  ]
+  ],
+  "subscribers":[{}]
 }
