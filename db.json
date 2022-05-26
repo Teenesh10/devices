@@ -24,7 +24,7 @@
    "locations": [
     {
       "id": "siteA",
-      "location": "Location A",
+      "location": "Klang",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
