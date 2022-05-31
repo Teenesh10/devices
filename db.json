@@ -2,45 +2,47 @@
   "sites": [
     {
       "id": 1,
-      "title": "Site A",
+      "title": "Klang",
       "value": "site a"
     },
      {
       "id": 2,
-      "title": "Site B",
+      "title": "Shah Alam",
       "value": "site b"
     },
      {
       "id": 3,
-      "title": "Site C",
+      "title": "Subang Jaya",
       "value": "site c"
     },
      {
       "id": 4,
-      "title": "Site D",
+      "title": "Petaling Jaya",
       "value": "site d"
     }
   ],
    "locations": [
     {
       "id": "siteA",
-      "location": "Klang",
+      "location": "Andalas",
+      "deviceA": "Device 1",
+      "deviceB": "Device 2",
+      "deviceC": "Device 3",
+      "action": "subscribe"
+    },
+    {
+      "id": "siteA",
+      "location": "Kampung Jawa",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
       "action": "subscribe"
     },
     {
       "id": "siteA",
-      "location": "Location B",
+      "location": "Pandamaran",
       "deviceA": "Device 1",
       "deviceB": "Device 2",
-      "action": "subscribe"
-    },
-    {
-      "id": "siteA",
-      "location": "Location C",
-      "deviceA": "Device 1",
-      "deviceB": "Device 2",
+      "deviceC": "Device 3",
       "action": "subscribe"
     },
     {
